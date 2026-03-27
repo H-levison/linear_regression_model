@@ -133,7 +133,7 @@ flutter run
 
 ## Demo Video
 
-[![Bitcoin Price Predictor — Demo](https://img.youtube.com/vi/DhgDcg5ndOo/0.jpg)](https://youtu.be/DhgDcg5ndOo)
+[![Bitcoin Price Predictor — Demo](https://img.youtube.com/vi/TpWCeN0NZkk/0.jpg)](https://youtu.be/TpWCeN0NZkk)
 
 ---
 
