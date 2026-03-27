@@ -7,8 +7,7 @@ import 'package:http/http.dart' as http;
 // - iOS Simulator / desktop: use 'http://localhost:8000'
 // - Android Emulator:        use 'http://10.0.2.2:8000'
 // - Physical device:         use your machine's local IP, e.g. 'http://192.168.1.x:8000'
-// When deployed to Render, replace with 'https://your-app-name.onrender.com'
-const String kApiBaseUrl = 'http://localhost:8000';
+const String kApiBaseUrl = 'https://linear-regression-model-4w14.onrender.com';
 
 void main() {
   runApp(const BitcoinPredictorApp());
