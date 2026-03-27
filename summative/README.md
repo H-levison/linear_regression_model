@@ -131,6 +131,12 @@ flutter run
 
 ---
 
+## Demo Video
+
+[![Bitcoin Price Predictor — Demo](https://img.youtube.com/vi/DhgDcg5ndOo/0.jpg)](https://youtu.be/DhgDcg5ndOo)
+
+---
+
 ## Project Structure
 
 ```
